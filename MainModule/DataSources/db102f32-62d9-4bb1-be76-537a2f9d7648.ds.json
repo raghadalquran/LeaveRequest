@@ -1,0 +1,142 @@
+{
+  "TypeId": 4,
+  "IsSystem": false,
+  "IsBuiltIn": false,
+  "Host": "172.16.235.28,25521",
+  "Database": "LeaveApplicatin",
+  "Port": 0,
+  "Password": "xXfVMswkobiCpkSn4mkRlAS7IboHZt3nhSlfv/7yrIw=",
+  "UserName": "sa",
+  "PrimaryKeyAttributeType": 2,
+  "EntityHistories": [],
+  "AttributesHistories": [],
+  "SyncHistories": [
+    {
+      "Id": "3aa30b9c-c8fa-4ef0-a0ee-a5db727167bf",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "c8619d71-8597-4d28-8575-0aa1c67dd1a5",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "44e713d9-6044-4bfd-9caa-b36eed181567",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "51ebefdc-5915-403e-87bf-a50325ea634a",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "3d736ab6-c9a9-496f-a6d7-1ba818394545",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "2ff392a1-187c-43f7-bb39-3e46c4b4c8f8",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "2411b0be-2c27-4101-b5be-64beabef6f95",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "0f63851a-99fd-4551-bb86-66855921d420",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "e9ef0a5c-eaed-4d58-984d-721ebbbaf8a8",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "fbe8a837-7e8d-4825-857f-a7edc64b04ec",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "8fdd470b-8c81-4b5d-919f-b22f16067be1",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    },
+    {
+      "Id": "195855af-c944-4f1c-b192-7a6afe7e2451",
+      "SyncedInMigrationName": "SecSynce7de7a5c7c2f408d81cedaeb3e0b00c5"
+    }
+  ],
+  "AttributeMigrationTypes": [
+    {
+      "Id": "c8619d71-8597-4d28-8575-0aa1c67dd1a5",
+      "TypeId": 8,
+      "SyncedInMigrationName": "Leave_App_testdeb0ff6197964830a577e28ae80cd4ba",
+      "IsSynced": true
+    },
+    {
+      "Id": "44e713d9-6044-4bfd-9caa-b36eed181567",
+      "TypeId": 4,
+      "SyncedInMigrationName": "Leave_App_testdeb0ff6197964830a577e28ae80cd4ba",
+      "IsSynced": true
+    },
+    {
+      "Id": "51ebefdc-5915-403e-87bf-a50325ea634a",
+      "TypeId": 4,
+      "SyncedInMigrationName": "Leave_App_testdeb0ff6197964830a577e28ae80cd4ba",
+      "IsSynced": true
+    },
+    {
+      "Id": "3d736ab6-c9a9-496f-a6d7-1ba818394545",
+      "TypeId": 1,
+      "SyncedInMigrationName": "Leave_App_testdeb0ff6197964830a577e28ae80cd4ba",
+      "IsSynced": true
+    },
+    {
+      "Id": "2ff392a1-187c-43f7-bb39-3e46c4b4c8f8",
+      "TypeId": 8,
+      "SyncedInMigrationName": "Leave_App_testdeb0ff6197964830a577e28ae80cd4ba",
+      "IsSynced": true
+    },
+    {
+      "Id": "0f63851a-99fd-4551-bb86-66855921d420",
+      "TypeId": 1,
+      "SyncedInMigrationName": "NewEntity0f5edea5f9164e0497d02b24e546c31b",
+      "IsSynced": true
+    },
+    {
+      "Id": "e9ef0a5c-eaed-4d58-984d-721ebbbaf8a8",
+      "TypeId": 1,
+      "SyncedInMigrationName": "NewEntity0f5edea5f9164e0497d02b24e546c31b",
+      "IsSynced": true
+    },
+    {
+      "Id": "fbe8a837-7e8d-4825-857f-a7edc64b04ec",
+      "TypeId": 1,
+      "SyncedInMigrationName": "NewEntity0f5edea5f9164e0497d02b24e546c31b",
+      "IsSynced": true
+    },
+    {
+      "Id": "8fdd470b-8c81-4b5d-919f-b22f16067be1",
+      "TypeId": 1,
+      "SyncedInMigrationName": "NewEntity0f5edea5f9164e0497d02b24e546c31b",
+      "IsSynced": true
+    },
+    {
+      "Id": "195855af-c944-4f1c-b192-7a6afe7e2451",
+      "TypeId": 73,
+      "SyncedInMigrationName": "NewEntity0f5edea5f9164e0497d02b24e546c31b",
+      "IsSynced": true
+    }
+  ],
+  "Schemas": [
+    "dbo"
+  ],
+  "MigrationHistroyTableName": null,
+  "MigrationsTableName": "MaestroMigrations_db102f3262d94bb1be76537a2f9d7648",
+  "HasHistories": true,
+  "IsEncrypted": true,
+  "CreatedBy": 37,
+  "CreationDate": "2025-01-02T09:32:26.9651647Z",
+  "ModifiedBy": 45,
+  "ModificationDate": "2025-01-07T06:43:36.454516Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "db102f32-62d9-4bb1-be76-537a2f9d7648",
+  "Code": "",
+  "Name": "LeaveApplicatin"
+}

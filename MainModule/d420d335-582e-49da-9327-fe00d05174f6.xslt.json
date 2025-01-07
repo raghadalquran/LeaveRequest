@@ -1,0 +1,13 @@
+{
+  "Code": null,
+  "Template": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<xsl:stylesheet version=\"1.0\" xmlns:xsl=\"http://www.w3.org/1999/XSL/Transform\">\n    <xsl:template match=\"/leaveRequests\">\n        <html>\n            <head>\n                <title>Leave Requests</title>\n                <style>\n                    table {border-collapse: collapse; width: 100%;}\n                    th, td {border: 1px solid #ddd; padding: 8px; text-align: left;}\n                    th {background-color: #f2f2f2;}\n                </style>\n            </head>\n            <body>\n                <h2>Leave Requests</h2>\n                <table>\n                    <tr>\n                        <th>Employee Name</th>\n                        <th>Leave Type</th>\n                        <th>Start Date</th>\n                        <th>End Date</th>\n                        <th>Reason</th>\n                    </tr>\n                    <xsl:for-each select=\"leaveRequest\">\n                        <tr>\n                            <td><xsl:value-of select=\"employeeName\" /></td>\n                            <td><xsl:value-of select=\"leaveType\" /></td>\n                            <td><xsl:value-of select=\"startDate\" /></td>\n                            <td><xsl:value-of select=\"endDate\" /></td>\n                            <td><xsl:value-of select=\"reason\" /></td>\n                        </tr>\n                    </xsl:for-each>\n                </table>\n            </body>\n        </html>\n    </xsl:template>\n</xsl:stylesheet>\n",
+  "CreatedBy": 37,
+  "CreationDate": "2025-01-06T11:56:05.4198677Z",
+  "ModifiedBy": 37,
+  "ModificationDate": "2025-01-06T12:05:39.9422071Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "d420d335-582e-49da-9327-fe00d05174f6",
+  "Name": "leaverequeststypes"
+}

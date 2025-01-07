@@ -1,0 +1,22 @@
+{
+  "ProjectName": " Leave_Request_Application",
+  "DefaultDateFormat": "MM/dd/yyyy",
+  "DefaultTimeFormat": "HH:MM:SS",
+  "DefaultTimezone": "(UTC+03:00) Amman",
+  "DefaultFirstDayOfTheWeek": "Monday",
+  "AttachmentsLocationType": "",
+  "AttachmentsLocationPath": "",
+  "MaestroThemeId": "c78e8b9f-57f6-4349-9c7c-dc43e626e91c",
+  "HomePageId": "44b7bcde-eb0b-4443-a81c-87cb1baa153b",
+  "RuntimeLanguage": "en",
+  "CreatedBy": null,
+  "CreationDate": null,
+  "ModifiedBy": 37,
+  "ModificationDate": "2025-01-06T13:08:18.9346533Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "6654e30d-2f29-4f4e-b3db-e177654a5742",
+  "Code": "",
+  "Name": ""
+}

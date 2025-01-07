@@ -1,0 +1,40 @@
+{
+  "Name": "LeaveAppIcone",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "02f7b23b-3b04-48ed-995a-c87891ddb2a2",
+      "Name": "quate.svg",
+      "File": null
+    },
+    {
+      "Id": "3bfd3c45-49bc-4518-84b9-beecd2f34808",
+      "Name": "play.svg",
+      "File": null
+    },
+    {
+      "Id": "2953ef43-5bf6-4161-b7e4-c0e9b835b0aa",
+      "Name": "left_3.svg",
+      "File": null
+    },
+    {
+      "Id": "a365769f-9133-4770-a6a4-bb44485d30dd",
+      "Name": "left_2.svg",
+      "File": null
+    },
+    {
+      "Id": "d17f17be-a6e9-4777-8a13-b5789e19df68",
+      "Name": "left_1.svg",
+      "File": null
+    }
+  ],
+  "CreatedBy": "37",
+  "CreationDate": "2024-12-17T11:52:38.0692177Z",
+  "ModifiedBy": "37",
+  "ModificationDate": "2025-01-02T08:03:19.3782985Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "9869fc38-3661-448d-bf4b-7d22dde84ba6",
+  "MaestroBlocksEntityState": 0
+}

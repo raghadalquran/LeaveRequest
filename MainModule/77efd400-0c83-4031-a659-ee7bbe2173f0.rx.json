@@ -1,0 +1,18 @@
+{
+  "Expression": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": ""
+  },
+  "Description": null,
+  "CreatedBy": 37,
+  "CreationDate": "2024-12-18T12:01:11.1135569Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "77efd400-0c83-4031-a659-ee7bbe2173f0",
+  "Code": null,
+  "Name": "DateFrom"
+}

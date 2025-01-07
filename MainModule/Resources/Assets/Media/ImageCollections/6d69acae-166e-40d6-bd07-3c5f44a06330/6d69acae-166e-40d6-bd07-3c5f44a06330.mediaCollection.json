@@ -1,0 +1,41 @@
+{
+  "Sequence": null,
+  "Name": "LeaveApp",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "f235edb6-a9e3-4c93-b07c-965bc72c28a5",
+      "Name": "images.png",
+      "File": null
+    },
+    {
+      "Id": "c72a9642-dd8e-48a7-885f-dfdec526d884",
+      "Name": "Image (2).jpg",
+      "File": null
+    },
+    {
+      "Id": "cc7a265e-8801-48e1-be1f-1357e81b6a57",
+      "Name": "images.jpg",
+      "File": null
+    },
+    {
+      "Id": "54e6e44a-1c73-4911-ad10-abfbde6e274a",
+      "Name": "s5.jpg",
+      "File": null
+    },
+    {
+      "Id": "a7dd0e38-9e62-4eaf-9886-3e20ec5f7c9f",
+      "Name": "user-1.jpg",
+      "File": null
+    }
+  ],
+  "CreatedBy": "37",
+  "CreationDate": "2024-12-17T11:51:33.5479361Z",
+  "ModifiedBy": "37",
+  "ModificationDate": "2025-01-02T11:04:37.8934017Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "6d69acae-166e-40d6-bd07-3c5f44a06330",
+  "MaestroBlocksEntityState": 0
+}

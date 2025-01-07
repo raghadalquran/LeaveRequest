@@ -1,0 +1,162 @@
+{
+  "IsPublished": null,
+  "Steps": [
+    {
+      "IsDisabled": false,
+      "Id": "39d64967-7796-4a19-8567-a7b60a113914",
+      "Value": "Start",
+      "IsDefaultDescription": false,
+      "ActivityData": null,
+      "Code": "logicflow_start",
+      "ParentId": null,
+      "ErrorHandlingType": 1,
+      "LogicFlowId": "00000000-0000-0000-0000-000000000000",
+      "StepId": 0,
+      "StepTypeKey": 101,
+      "ActivityType": 0,
+      "StepTypeId": 1,
+      "StepDesign": {
+        "UiElementId": null,
+        "GeometryX": 300.0,
+        "GeometryY": 100.0,
+        "GeometryWidth": 55.0,
+        "GeometryWidthUser": null,
+        "GeometryHeight": 55.0,
+        "GeometryHeightUser": null,
+        "Style": "{\"fontFamily\":\"nunito-sans, sans-serif\",\"overflow\":\"hidden\",\"fontSize\":12,\"whiteSpace\":\"wrap\",\"rounded\":true,\"isAutoSized\":false,\"shape\":\"ellipse\",\"perimeter\":\"ellipsePerimeter\",\"strokeWidth\":4,\"resizable\":false,\"fillColor\":\"#fff\",\"defaultWidth\":55,\"defaultHeight\":55,\"strokeColor\":\"#4C9746\",\"fontColor\":\"#4C9746\",\"type\":\"start\",\"fillOpacity\":100}"
+      },
+      "StepPaths": [
+        {
+          "Id": "cd740180-a879-45d9-8a87-6382dff03668",
+          "PathType": 1,
+          "FromLogicStepId": "39d64967-7796-4a19-8567-a7b60a113914",
+          "ToLogicStepId": "068260b2-c55c-43be-a1da-9f3a22fec612",
+          "IsDefaultPath": false,
+          "PathDesign": {
+            "GeometryX": null,
+            "GeometryY": null,
+            "Points": []
+          },
+          "PathDecisionContext": {
+            "DecisionValue": null,
+            "DecisionContextValue": null
+          }
+        }
+      ]
+    },
+    {
+      "IsDisabled": false,
+      "Id": "ada9756c-d295-45ff-b7f0-e24046553576",
+      "Value": "End",
+      "IsDefaultDescription": false,
+      "ActivityData": "{\"Id\":\"00000000-0000-0000-0000-000000000000\",\"inputTypeId\":0,\"DiagramId\":null,\"EntityId\":null,\"EntityName\":null,\"DiagramCode\":null,\"SchemaName\":null,\"ReturnValue\":null,\"SaveResponseType\":0,\"SaveResponseIn\":0,\"SaveResponseInName\":null}",
+      "Code": "logicflow_end",
+      "ParentId": null,
+      "ErrorHandlingType": 1,
+      "LogicFlowId": "00000000-0000-0000-0000-000000000000",
+      "StepId": 0,
+      "StepTypeKey": 151,
+      "ActivityType": 0,
+      "StepTypeId": 2,
+      "StepDesign": {
+        "UiElementId": null,
+        "GeometryX": 310.0,
+        "GeometryY": 460.0,
+        "GeometryWidth": 55.0,
+        "GeometryWidthUser": null,
+        "GeometryHeight": 55.0,
+        "GeometryHeightUser": null,
+        "Style": "{\"fontFamily\":\"nunito-sans, sans-serif\",\"overflow\":\"hidden\",\"fontSize\":12,\"whiteSpace\":\"wrap\",\"rounded\":true,\"isAutoSized\":false,\"shape\":\"ellipse\",\"perimeter\":\"ellipsePerimeter\",\"strokeWidth\":4,\"resizable\":false,\"fillColor\":\"#fff\",\"defaultWidth\":55,\"defaultHeight\":55,\"strokeColor\":\"#5350A2\",\"fontColor\":\"#5350A2\",\"type\":\"end\",\"fillOpacity\":100}"
+      },
+      "StepPaths": [
+        {
+          "Id": "bc8176b9-fa13-4acd-927e-48ced2fa24db",
+          "PathType": 1,
+          "FromLogicStepId": "068260b2-c55c-43be-a1da-9f3a22fec612",
+          "ToLogicStepId": "ada9756c-d295-45ff-b7f0-e24046553576",
+          "IsDefaultPath": false,
+          "PathDesign": {
+            "GeometryX": null,
+            "GeometryY": null,
+            "Points": []
+          },
+          "PathDecisionContext": {
+            "DecisionValue": null,
+            "DecisionContextValue": null
+          }
+        }
+      ]
+    },
+    {
+      "IsDisabled": false,
+      "Id": "068260b2-c55c-43be-a1da-9f3a22fec612",
+      "Value": "Send Email Notification \"ApprovedRequestByEventCoordinator2\"",
+      "IsDefaultDescription": true,
+      "ActivityData": "{\"id\":\"37fb866e-972e-4114-b475-8d4ecf652155\",\"email_title\":{\"dataTypeId\":6,\"editorType\":2,\"value\":\"Leave Application Email \"},\"email_to\":{\"dataTypeId\":6,\"editorType\":2,\"value\":\"d.kanaan.ext@tahaluf.ae\"},\"email_cc\":{\"dataTypeId\":6,\"editorType\":2,\"value\":\"\"},\"email_bcc\":{\"dataTypeId\":6,\"editorType\":2,\"value\":\"\"},\"attachment_type_id\":0,\"attachment_value\":{\"dataTypeId\":6,\"editorType\":2,\"value\":\"\"},\"attachment_name\":{\"dataTypeId\":6,\"editorType\":2,\"value\":\"\"},\"notification_parameters\":{\"Requester\":\"\",\"date\":\"\"},\"language_id\":1,\"template_id\":\"9572986c-c833-4287-87ee-624201af5129\"}",
+      "Code": "503f53d2-eaf2-4cf2-9ac2-b0f2bedefcb8",
+      "ParentId": null,
+      "ErrorHandlingType": 1,
+      "LogicFlowId": "00000000-0000-0000-0000-000000000000",
+      "StepId": 0,
+      "StepTypeKey": 1903,
+      "ActivityType": 0,
+      "StepTypeId": 19,
+      "StepDesign": {
+        "UiElementId": null,
+        "GeometryX": 260.0,
+        "GeometryY": 300.0,
+        "GeometryWidth": 180.0,
+        "GeometryWidthUser": null,
+        "GeometryHeight": 50.0,
+        "GeometryHeightUser": null,
+        "Style": "{\"fontFamily\":\"nunito-sans, sans-serif\",\"overflow\":\"hidden\",\"fontSize\":11,\"whiteSpace\":\"wrap\",\"rounded\":true,\"isAutoSized\":true,\"shape\":\"label\",\"perimeter\":\"rectanglePerimeter\",\"strokeWidth\":1.4,\"align\":\"left\",\"verticalAlign\":\"top\",\"spacingTop\":5,\"spacingLeft\":35,\"spacingRight\":5,\"spacingBottom\":0,\"fillColor\":\"#F3F2FF\",\"fontColor\":\"#54565A\",\"arcSize\":16,\"absoluteArcSize\":true,\"imageWidth\":23,\"imageHeight\":23,\"labelPadding\":0,\"strokeColor\":\"#494697\",\"defaultWidth\":200,\"defaultHeight\":90,\"maxDefaultHeight\":350,\"maxDefaultWidth\":300,\"minDefaultHeight\":50,\"minDefaultWidth\":180,\"image\":\"/assets/br/images/logicFlow/send-email.svg\",\"type\":\"sendEmail\",\"fillOpacity\":100}"
+      },
+      "StepPaths": [
+        {
+          "Id": "cd740180-a879-45d9-8a87-6382dff03668",
+          "PathType": 1,
+          "FromLogicStepId": "39d64967-7796-4a19-8567-a7b60a113914",
+          "ToLogicStepId": "068260b2-c55c-43be-a1da-9f3a22fec612",
+          "IsDefaultPath": false,
+          "PathDesign": {
+            "GeometryX": null,
+            "GeometryY": null,
+            "Points": []
+          },
+          "PathDecisionContext": {
+            "DecisionValue": null,
+            "DecisionContextValue": null
+          }
+        },
+        {
+          "Id": "bc8176b9-fa13-4acd-927e-48ced2fa24db",
+          "PathType": 1,
+          "FromLogicStepId": "068260b2-c55c-43be-a1da-9f3a22fec612",
+          "ToLogicStepId": "ada9756c-d295-45ff-b7f0-e24046553576",
+          "IsDefaultPath": false,
+          "PathDesign": {
+            "GeometryX": null,
+            "GeometryY": null,
+            "Points": []
+          },
+          "PathDecisionContext": {
+            "DecisionValue": null,
+            "DecisionContextValue": null
+          }
+        }
+      ]
+    }
+  ],
+  "Inputs": [],
+  "OutputData": null,
+  "CreatedBy": null,
+  "CreationDate": null,
+  "ModifiedBy": 37,
+  "ModificationDate": "2025-01-02T09:12:51.2132378Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "23fb659e-da68-4093-967f-8761451b5b48",
+  "Code": "Notification",
+  "Name": "Notification"
+}

@@ -1,0 +1,18 @@
+{
+  "Expression": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": "^\\+[1-9]{1}[0-9]{0,2}-[2-9]{1}[0-9]{2}-[2-9]{1}[0-9]{2}-[0-9]{4}$'"
+  },
+  "Description": null,
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T11:57:29.5103925Z",
+  "ModifiedBy": 37,
+  "ModificationDate": "2024-12-18T11:59:51.1190034Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "f3297b68-ba67-4613-9bc0-9a9005c23218",
+  "Code": null,
+  "Name": "PhomeNumber"
+}

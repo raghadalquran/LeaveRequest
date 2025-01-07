@@ -1,0 +1,50 @@
+{
+  "EnumerationValues": [
+    {
+      "Code": null,
+      "Caption": "AnnualSick",
+      "Image": null,
+      "Tooltip": null,
+      "OrderIndex": null,
+      "EnumId": "7aced3bf-37e8-43a6-a6a9-6ea50fa092c0",
+      "EnumerationType": null,
+      "CreatedBy": 37,
+      "CreationDate": "2024-12-18T10:36:43.9128985Z",
+      "ModifiedBy": null,
+      "ModificationDate": null,
+      "DeletedBy": null,
+      "DeletionDate": null,
+      "MetaData": {},
+      "Id": "704c5ef4-7f6a-40d7-92c3-5183de2f370b",
+      "Name": ""
+    },
+    {
+      "Code": null,
+      "Caption": "Emergency",
+      "Image": null,
+      "Tooltip": null,
+      "OrderIndex": null,
+      "EnumId": "7aced3bf-37e8-43a6-a6a9-6ea50fa092c0",
+      "EnumerationType": null,
+      "CreatedBy": 37,
+      "CreationDate": "2024-12-18T10:37:07.6766684Z",
+      "ModifiedBy": null,
+      "ModificationDate": null,
+      "DeletedBy": null,
+      "DeletionDate": null,
+      "MetaData": {},
+      "Id": "7f8de752-e254-4977-b3fe-ccfc5a7c7f89",
+      "Name": ""
+    }
+  ],
+  "CreatedBy": 37,
+  "CreationDate": "2024-12-18T10:36:25.5255771Z",
+  "ModifiedBy": 37,
+  "ModificationDate": "2024-12-18T10:37:07.6979487Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "7aced3bf-37e8-43a6-a6a9-6ea50fa092c0",
+  "Code": "",
+  "Name": "LeaveType"
+}

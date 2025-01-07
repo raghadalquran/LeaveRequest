@@ -1,0 +1,69 @@
+{
+  "IsPublished": null,
+  "Steps": [
+    {
+      "IsDisabled": false,
+      "Id": "fa5c8f05-20e2-49e7-970c-e4f6c699e323",
+      "Value": "Start",
+      "IsDefaultDescription": false,
+      "ActivityData": null,
+      "Code": "logicflow_start",
+      "ParentId": null,
+      "ErrorHandlingType": 0,
+      "LogicFlowId": "0c21e6cd-4ea9-4329-a67b-7dd26991bcd6",
+      "StepId": 1,
+      "StepTypeKey": 101,
+      "ActivityType": null,
+      "StepTypeId": 1,
+      "StepDesign": {
+        "UiElementId": "mxCell#1",
+        "GeometryX": 300.0,
+        "GeometryY": 100.0,
+        "GeometryWidth": 55.0,
+        "GeometryWidthUser": null,
+        "GeometryHeight": 55.0,
+        "GeometryHeightUser": null,
+        "Style": "resizable=0;shape=ellipse;fillColor=#fff;fontColor=#4C9746;strokeColor=#4C9746;strokeWidth=4;startStyle"
+      },
+      "StepPaths": []
+    },
+    {
+      "IsDisabled": false,
+      "Id": "3be35814-0459-4ac6-8d92-83a56cdce346",
+      "Value": "End",
+      "IsDefaultDescription": false,
+      "ActivityData": "{\"Id\":\"00000000-0000-0000-0000-000000000000\",\"inputTypeId\":0,\"DiagramId\":null,\"EntityId\":null,\"EntityName\":null,\"DiagramCode\":null,\"SchemaName\":null,\"ReturnValue\":null,\"SaveResponseType\":0,\"SaveResponseIn\":0,\"SaveResponseInName\":null}",
+      "Code": "logicflow_end",
+      "ParentId": null,
+      "ErrorHandlingType": 0,
+      "LogicFlowId": "0c21e6cd-4ea9-4329-a67b-7dd26991bcd6",
+      "StepId": 2,
+      "StepTypeKey": 151,
+      "ActivityType": null,
+      "StepTypeId": 2,
+      "StepDesign": {
+        "UiElementId": "mxCell#2",
+        "GeometryX": 300.0,
+        "GeometryY": 510.0,
+        "GeometryWidth": 55.0,
+        "GeometryWidthUser": null,
+        "GeometryHeight": 55.0,
+        "GeometryHeightUser": null,
+        "Style": "resizable=0;shape=ellipse;fillColor=#fff;fontColor=#5350A2;strokeColor=#5350A2;strokeWidth=4;endStyle"
+      },
+      "StepPaths": []
+    }
+  ],
+  "Inputs": [],
+  "OutputData": null,
+  "CreatedBy": 37,
+  "CreationDate": "2024-12-18T11:41:55.3420972Z",
+  "ModifiedBy": 37,
+  "ModificationDate": "2024-12-18T11:41:55.4309542Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "0c21e6cd-4ea9-4329-a67b-7dd26991bcd6",
+  "Code": "LogicFlow1",
+  "Name": "LogicFlow1"
+}

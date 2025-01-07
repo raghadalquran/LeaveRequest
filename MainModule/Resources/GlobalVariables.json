@@ -1,0 +1,21 @@
+[
+  {
+    "Type": 1,
+    "Key": "Email",
+    "Value": "d.kanaan.ext@tahaluf.ae",
+    "Documentation": null,
+    "IsSystemKey": false,
+    "IsEncrypted": false,
+    "EnumCode": null,
+    "CreatedBy": 37,
+    "CreationDate": "2024-12-18T12:24:40.5751962Z",
+    "ModifiedBy": null,
+    "ModificationDate": null,
+    "DeletedBy": null,
+    "DeletionDate": null,
+    "MetaData": {},
+    "Id": "0f4b288c-0cfc-49dc-b069-ab36a5efe54d",
+    "Code": null,
+    "Name": ""
+  }
+]

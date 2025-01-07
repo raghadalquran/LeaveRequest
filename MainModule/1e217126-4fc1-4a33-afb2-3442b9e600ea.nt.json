@@ -1,0 +1,25 @@
+{
+  "Title": "Request Approve",
+  "NotificationTypeId": 0,
+  "IsPublished": true,
+  "TemplateContents": [
+    {
+      "LanguageId": 1,
+      "TemplateId": "00000000-0000-0000-0000-000000000000",
+      "Body": "<p>Dear Requester,</p><p><br></p><p>Your leave is approved by the event coordinator. </p><p><br></p><p>Regards, </p><p> </p>",
+      "Id": "f215b1ec-fa6d-46a2-b356-b9177b2dd8f3",
+      "Code": null,
+      "MaestroBlocksEntityState": 0
+    }
+  ],
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T10:57:02.0264348Z",
+  "ModifiedBy": 37,
+  "ModificationDate": "2024-12-18T11:24:31.7755848Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "1e217126-4fc1-4a33-afb2-3442b9e600ea",
+  "Code": "",
+  "Name": "ApprovedRequestByEventCoordinator"
+}
